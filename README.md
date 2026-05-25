@@ -60,7 +60,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 1 — Campaign Performance (View 1)
 > *Overall reach, conversion trends, and channel breakdown*
 
-![Campaign Performance View 1](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/campaign_performance_v1.png)
+![Campaign Performance View 1](screenshots/campaign_performance_v1.png)
 
 - **Conversion Rate Trend:** Steady upward climb from near-zero in 2008 to ~95% by 2012 — proving the strategy matures over time.
 - **Channel Efficiency:** Cellular dominates with **3.85K subscribers** vs. Telephone at 787 — a 5:1 ratio.
