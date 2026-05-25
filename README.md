@@ -3,14 +3,15 @@
 <!-- Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=4ECDC4&center=true&vCenter=true&width=435&lines=NovaTrust+Bank+Marketing+Analytics;Power+BI+Dashboard+%7C+Datathon+2nd+Place+%F0%9F%A5%88" alt="Typing SVG" />
 
-# 🏦 NovaTrust - Bank Marketing Campaign Analytics
+# 🏦 NovaTrust — Bank Marketing Campaign Analytics
 
-### 🥈 2nd Place - Project Hail Mary | Datathon Competition
+### 🥈 2nd Place — Project Hail Mary | Datathon Competition
 
 <br/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4ECDC4?style=for-the-badge)
 
 <br/>
@@ -56,10 +57,10 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 
 ## 📊 Dashboard Pages
 
-### Page 1 - Campaign Performance (View 1)
+### Page 1 — Campaign Performance (View 1)
 > *Overall reach, conversion trends, and channel breakdown*
 
-![Campaign Performance View 1](📸 screenshots/campaign_performance_v1.png)
+![Campaign Performance View 1](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/campaign_performance_v1.png)
 
 - **Conversion Rate Trend:** Steady upward climb from near-zero in 2008 to ~95% by 2012 — proving the strategy matures over time.
 - **Channel Efficiency:** Cellular dominates with **3.85K subscribers** vs. Telephone at 787 — a 5:1 ratio.
@@ -67,64 +68,64 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 
 ---
 
-### Page 2 - Campaign Performance (View 2)
+### Page 2 — Campaign Performance (View 2)
 > *Call duration analysis and success/failure correlation*
 
-![Campaign Performance View 2](screenshots/campaign_performance_v2.png)
+![Campaign Performance View 2](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/campaign_performance_v2.png)
 
 - **Avg Duration — Success:** 9.22 min | **Failure:** 3.68 min → Quality conversations convert.
 - **Success vs. Failure Scatter:** Clear positive correlation between call duration and conversion rate.
 
 ---
 
-### Page 3 - Budget Analysis (View 1 - Value for Money)
+### Page 3 — Budget Analysis (View 1 — Value for Money)
 > *Cost efficiency by education segment and monthly spending patterns*
 
-![Budget Analysis View 1](screenshots/budget_analysis_v1.png)
+![Budget Analysis View 1](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/budget_analysis_v1.png)
 
-- **Financial Efficiency over Time:** Spending peaked in May with the lowest returning conversion rate - a critical misalignment.
+- **Financial Efficiency over Time:** Spending peaked in May with the lowest returning conversion rate — a critical misalignment.
 - **Value for Money by Education:** `basic.9y` leads with CPA of 194, followed by `basic.6y` at 187.
 
 ---
 
-### Page 4 - Budget Analysis (View 2 - Decomposition Tree)
+### Page 4 — Budget Analysis (View 2 — Decomposition Tree)
 > *CPA breakdown by contact channel → job type → education → marital status*
 
-![Budget Analysis View 2](screenshots/budget_analysis_v2.png)
+![Budget Analysis View 2](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/budget_analysis_v2.png)
 
 - **Golden Path identified:** `Cellular → Student → basic.6y → Single` yields a CPA of only **~16** vs. the overall average of 136.76.
-- **Worst Path:** `Telephone` contacts carry a CPA of **326.87** - more than 20× the golden path.
+- **Worst Path:** `Telephone` contacts carry a CPA of **326.87** — more than 20× the golden path.
 
 ---
 
-### Page 5 - Economics Stability
+### Page 5 — Economics Stability
 > *How Euribor rates, consumer confidence, CPI, and employment shape conversions*
 
-![Economics Stability](screenshots/economics_stability.png)
+![Economics Stability](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/economics_stability.png)
 
-- **Euribor inversely correlated** with conversions - clients flock to term deposits as interbank rates fall.
-- **Consumer Sentiment vs. Success:** Positive trend - even mildly improving confidence lifts conversion.
+- **Euribor inversely correlated** with conversions — clients flock to term deposits as interbank rates fall.
+- **Consumer Sentiment vs. Success:** Positive trend — even mildly improving confidence lifts conversion.
 - **Employment Impact:** Declining employment correlates with rising conversions as clients seek financial safety.
 
 ---
 
-### Page 6 - Economics Risk
+### Page 6 — Economics Risk
 > *Volatility, market sentiment risk, and price instability index*
 
-![Economics Risk](screenshots/economics_risk.png)
+![Economics Risk](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/economics_risk.png)
 
-- **Interest Rate Volatility:** 1.73 - peaked in 2009 alongside highest subscriber counts, then normalized.
+- **Interest Rate Volatility:** 1.73 — peaked in 2009 alongside highest subscriber counts, then normalized.
 - **Price Instability Index:** Approaches the **0.35 critical threshold** in 2010, signaling CPA risk.
-- **Wasted Budget × Market Sentiment:** Negative correlation - higher sentiment risk = lower wasted budget, suggesting campaigns get more selective.
+- **Wasted Budget × Market Sentiment:** Negative correlation — higher sentiment risk = lower wasted budget, suggesting campaigns get more selective.
 
 ---
 
-### Page 7–9 - Actionable Recommendations
-> *Three sections: Campaign, Budget, and Economics - each with 3 data-backed recommendations*
+### Page 7–9 — Actionable Recommendations
+> *Three sections: Campaign, Budget, and Economics — each with 3 data-backed recommendations*
 
-![Recommendations Campaign](screenshots/recommendations_campaign.png)
-![Recommendations Budget](screenshots/recommendations_budget.png)
-![Recommendations Economics](screenshots/recommendations_economics.png)
+![Recommendations Campaign](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_campaign.png)
+![Recommendations Budget](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_budget.png)
+![Recommendations Economics](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_economics.png)
 
 ---
 
@@ -231,8 +232,8 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 |---|---|
 | **Mina Magdy** | Data Analysis & Dashboard Architecture |
 | **Ahmed Shehab** | Data Analysis & Visualization |
-| **Shahd Yousery** | Data Analysis & Recommendations |
-| **Malak Abdelkader** | Data Analysis & Insights |
+| **Shahd Yousery** | Data Analysis & Insights |
+| **Malak Abdelkader** | Data Analysis & Recommendations |
 
 </div>
 
