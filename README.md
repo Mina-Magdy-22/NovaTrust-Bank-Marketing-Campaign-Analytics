@@ -71,7 +71,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 2 — Campaign Performance (View 2)
 > *Call duration analysis and success/failure correlation*
 
-![Campaign Performance View 2](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/campaign_performance_v2.png)
+![Campaign Performance View 2](screenshots/campaign_performance_v2.png)
 
 - **Avg Duration — Success:** 9.22 min | **Failure:** 3.68 min → Quality conversations convert.
 - **Success vs. Failure Scatter:** Clear positive correlation between call duration and conversion rate.
@@ -81,7 +81,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 3 — Budget Analysis (View 1 — Value for Money)
 > *Cost efficiency by education segment and monthly spending patterns*
 
-![Budget Analysis View 1](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/budget_analysis_v1.png)
+![Budget Analysis View 1](screenshots/budget_analysis_v1.png)
 
 - **Financial Efficiency over Time:** Spending peaked in May with the lowest returning conversion rate — a critical misalignment.
 - **Value for Money by Education:** `basic.9y` leads with CPA of 194, followed by `basic.6y` at 187.
@@ -91,7 +91,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 4 — Budget Analysis (View 2 — Decomposition Tree)
 > *CPA breakdown by contact channel → job type → education → marital status*
 
-![Budget Analysis View 2](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/budget_analysis_v2.png)
+![Budget Analysis View 2](screenshots/budget_analysis_v2.png)
 
 - **Golden Path identified:** `Cellular → Student → basic.6y → Single` yields a CPA of only **~16** vs. the overall average of 136.76.
 - **Worst Path:** `Telephone` contacts carry a CPA of **326.87** — more than 20× the golden path.
@@ -101,7 +101,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 5 — Economics Stability
 > *How Euribor rates, consumer confidence, CPI, and employment shape conversions*
 
-![Economics Stability](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/economics_stability.png)
+![Economics Stability](screenshots/economics_stability.png)
 
 - **Euribor inversely correlated** with conversions — clients flock to term deposits as interbank rates fall.
 - **Consumer Sentiment vs. Success:** Positive trend — even mildly improving confidence lifts conversion.
@@ -112,7 +112,7 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 6 — Economics Risk
 > *Volatility, market sentiment risk, and price instability index*
 
-![Economics Risk](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/economics_risk.png)
+![Economics Risk](screenshots/economics_risk.png)
 
 - **Interest Rate Volatility:** 1.73 — peaked in 2009 alongside highest subscriber counts, then normalized.
 - **Price Instability Index:** Approaches the **0.35 critical threshold** in 2010, signaling CPA risk.
@@ -123,9 +123,9 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 ### Page 7–9 — Actionable Recommendations
 > *Three sections: Campaign, Budget, and Economics — each with 3 data-backed recommendations*
 
-![Recommendations Campaign](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_campaign.png)
-![Recommendations Budget](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_budget.png)
-![Recommendations Economics](https://raw.githubusercontent.com/Mina-Magdy-22/-NovaTrust---Bank-Marketing-Campaign-Analytics/main/screenshots/recommendations_economics.png)
+![Recommendations Campaign](screenshots/recommendations_campaign.png)
+![Recommendations Budget](screenshots/recommendations_budget.png)
+![Recommendations Economics](screenshots/recommendations_economics.png)
 
 ---
 
